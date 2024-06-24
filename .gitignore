@@ -1,5 +1,5 @@
 # Python virtual environments
 env/
-100knock-data_analytics
-.ipynb_checkpoints
-sample.txt
+100knock-data_analytics/
+.ipynb_checkpoints/
+vim_practice/
